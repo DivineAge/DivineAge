@@ -5,32 +5,32 @@ I build scalable backend systems and intelligent computer vision solutions. My w
 
 🛠️ Tech Stack
 Backend Engineering
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white
+https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white
+https://img.shields.io/badge/Python-3772AB?style=flat-square&logo=python&logoColor=white
+https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white
+https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white
 
 Databases
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
-https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white
+https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white
 
 AI & Machine Learning
-https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
+https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
+https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white
 
 DevOps & Tools
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
+https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white
 
 💼 Professional Experience
 Backend Intern @ Microsystems
@@ -50,37 +50,6 @@ Developed and maintained backend APIs using ASP.NET as part of a microservices-b
 Contributed consistently to a production project with 100+ commits, collaborating within a Git-based team workflow
 
 Used Docker to support seamless deployment and ensure consistent application environments across development and production
-
-🚀 Featured Projects
-🌱 Graduation Project — Seed Bank Platform
-Fine-Grained Visual Classification (FGVC) Platform for Agricultural Quality Control
-
-Built a FGVC platform to automate agricultural quality control using computer vision to detect, count, and classify seed quality and defects
-
-Designed two complementary inference pipelines:
-
-Real-time, single-stage YOLOv8 model optimized for speed
-
-High-accuracy two-stage pipeline combining Faster R-CNN for detection with a custom EfficientNet-B2 classifier for precise defect categorization
-
-Created MultiSeedGen, a synthetic data engine that segments individual seeds from clean datasets and composites them into dense, multi-seed scenes, producing perfectly labeled, class-balanced training data
-
-Applied domain randomization in the generator — adding realistic clutter, occlusions, shadows, sensor noise, and geometric variations — to reduce the synthetic-to-real gap and improve model robustness
-
-Built with a React frontend and FastAPI backend, supporting seed analysis, results, and scan history
-
-Designed and maintained PostgreSQL data models for users, batches, and inference results
-
-Used Docker and Redis to support seamless deployment and improve backend responsiveness
-
-🏆 ROCK Loyalty System
-ASP.NET Core Microservices API
-
-Built an ASP.NET Core microservices API enabling scalable inter-service communication, in-memory caching, and optimized SQL performance
-
-Designed and optimized MySQL schemas and queries for efficient, reliable data handling
-
-Implemented secure authentication using OAuth2 and JWT for protected API access
 
 🎓 Education
 BSc in Computer Science — Faculty of Computers and Artificial Intelligence, Cairo University
