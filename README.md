@@ -50,9 +50,6 @@ I build scalable backend systems and intelligent computer vision solutions. My w
 ## 🎓 Education
 
 **BSc in Computer Science — Faculty of Computers and Artificial Intelligence, Cairo University**  
-*10/2022 – 07/2026*  
-**Relevant Coursework:** Object Oriented Programming, Computer Networks, Operating Systems, Database Systems, Software Engineering, Data Structures & Algorithms, Information Retrieval, Machine Learning, Unsupervised Learning, Supervised Learning, Reinforcement Learning, Processing of Formal and Natural Languages, Generative Adversarial Networks, Image Processing
-
 ## 🧠 AI & Engineering Expertise
 
 | Domain | Skills |
