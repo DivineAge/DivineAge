@@ -37,15 +37,10 @@ I build scalable backend systems and intelligent computer vision solutions. My w
 
 **Backend Intern @ Microsystems**  
 *08/2025 – 10/2025 | Giza, Egypt*
-* Owned and delivered end-to-end development of key software modules across the SDLC, using React to build modern, responsive user interfaces.
-* Enhanced application performance by implementing atomic transactions to address concurrency issues and optimize data consistency under high load.
-* Improved code quality and stability by writing automated unit and end-to-end testing, debugging issues, and maintaining clean, well-documented codebases.
 
 **Backend Intern @ Microsystems**  
 *08/2024 – 10/2024 | Giza, Egypt*
-* Developed and maintained backend APIs using ASP.NET as part of a microservices-based system.
-* Contributed consistently to a production project with 100+ commits, collaborating within a Git-based team workflow.
-* Used Docker to support seamless deployment and ensure consistent application environments across development and production.
+
 
 ## 🎓 Education
 
